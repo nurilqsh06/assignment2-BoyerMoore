@@ -1,0 +1,5 @@
+ArraySize,ExecutionTime,Comparisons,ArrayAccess,Swaps,MemoryAllocations
+100,463417,99,99,0,0
+1000,27167,999,999,0,0
+10000,265750,9999,9999,0,0
+100000,1601834,99999,99999,0,0
