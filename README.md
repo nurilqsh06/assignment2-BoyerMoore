@@ -31,7 +31,6 @@ The algorithm makes a single pass through the array and identifies the potential
 
 Unit tests cover various edge cases, including:
 
-- Empty arrays (throws `IllegalArgumentException`).
 - Single-element arrays.
 - Arrays containing only negative values.
 - Arrays containing only positive values.
